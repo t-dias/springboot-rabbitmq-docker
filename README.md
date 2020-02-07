@@ -14,7 +14,9 @@ This project is a example of Spring Boot web applications integrated with Rabbit
     * @Retryable example with expressions
 * RabbitMQ Exchanges and Queues
 
-To run containers:
-* docker-compose build
-* docker-compose up -d
+### Build:
+`docker-compose build`
+
+### Run:
+`docker-compose up -d`
 
